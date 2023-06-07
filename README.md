@@ -1,8 +1,8 @@
 # Trabalho: Analisador Sintático
 
 Nome dos alunos e números de matrícula:
-* Aluno: ___________________________
-* Aluno: ___________________________
+* Aluno: Fábio Manuel Martins Troncão
+* Aluno: Max Alexandre Fragoso de Oliveira
 * Disciplina: Compiladores
 * Semestre: 2023/1
 * Data de entrega: 31/05/2023
